@@ -21,7 +21,7 @@ section {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  gap: 12px;
+  gap: 20px;
   height: 100vh;
 }
 
